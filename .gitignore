@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env*
+!.env.example
+
+# Cache & Temp
+.cache/
+*.tmp
+*.temp
+
+# Logs
+logs/
+*.log
+
+# Editor
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+._DS_Store
